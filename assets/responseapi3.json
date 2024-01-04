@@ -1,0 +1,210 @@
+[
+    {
+        "eventTime": "2023-12-26T00:00",
+        "responseTime": 153
+    },
+    {
+        "eventTime": "2023-12-26T00:15",
+        "responseTime": 753
+    },
+    {
+        "eventTime": "2023-12-26T00:30",
+        "responseTime": 561
+    },
+    {
+        "eventTime": "2023-12-26T00:45",
+        "responseTime": 231
+    },
+    {
+        "eventTime": "2023-12-26T01:00",
+        "responseTime": 959
+    },
+    {
+        "eventTime": "2023-12-26T01:15",
+        "responseTime": 313
+    },
+    {
+        "eventTime": "2023-12-26T01:30",
+        "responseTime": 394
+    },
+    {
+        "eventTime": "2023-12-26T01:45",
+        "responseTime": 299
+    },
+    {
+        "eventTime": "2023-12-26T02:00",
+        "responseTime": 146
+    },
+    {
+        "eventTime": "2023-12-26T02:15",
+        "responseTime": 231
+    },
+    {
+        "eventTime": "2023-12-26T02:30",
+        "responseTime": 596
+    },
+    {
+        "eventTime": "2023-12-26T02:45",
+        "responseTime": 564
+    },
+    {
+        "eventTime": "2023-12-26T03:00",
+        "responseTime": 132
+    },
+    {
+        "eventTime": "2023-12-26T03:15",
+        "responseTime": 173
+    },
+    {
+        "eventTime": "2023-12-26T03:30",
+        "responseTime": 566
+    },
+    {
+        "eventTime": "2023-12-26T03:45",
+        "responseTime": 233
+    },
+    {
+        "eventTime": "2023-12-26T04:00",
+        "responseTime": 330
+    },
+    {
+        "eventTime": "2023-12-26T04:15",
+        "responseTime": 794
+    },
+    {
+        "eventTime": "2023-12-26T04:30",
+        "responseTime": 853
+    },
+    {
+        "eventTime": "2023-12-26T04:45",
+        "responseTime": 912
+    },
+    {
+        "eventTime": "2023-12-26T05:00",
+        "responseTime": 160
+    },
+    {
+        "eventTime": "2023-12-26T05:15",
+        "responseTime": 861
+    },
+    {
+        "eventTime": "2023-12-26T05:30",
+        "responseTime": 162
+    },
+    {
+        "eventTime": "2023-12-26T05:45",
+        "responseTime": 371
+    },
+    {
+        "eventTime": "2023-12-26T06:00",
+        "responseTime": 916
+    },
+    {
+        "eventTime": "2023-12-26T06:15",
+        "responseTime": 608
+    },
+    {
+        "eventTime": "2023-12-26T06:30",
+        "responseTime": 861
+    },
+    {
+        "eventTime": "2023-12-26T06:45",
+        "responseTime": 393
+    },
+    {
+        "eventTime": "2023-12-26T07:00",
+        "responseTime": 767
+    },
+    {
+        "eventTime": "2023-12-26T07:15",
+        "responseTime": 983
+    },
+    {
+        "eventTime": "2023-12-26T07:30",
+        "responseTime": 451
+    },
+    {
+        "eventTime": "2023-12-26T07:45",
+        "responseTime": 476
+    },
+    {
+        "eventTime": "2023-12-26T08:00",
+        "responseTime": 521
+    },
+    {
+        "eventTime": "2023-12-26T08:15",
+        "responseTime": 877
+    },
+    {
+        "eventTime": "2023-12-26T08:30",
+        "responseTime": 643
+    },
+    {
+        "eventTime": "2023-12-26T08:45",
+        "responseTime": 654
+    },
+    {
+        "eventTime": "2023-12-26T09:00",
+        "responseTime": 622
+    },
+    {
+        "eventTime": "2023-12-26T09:15",
+        "responseTime": 349
+    },
+    {
+        "eventTime": "2023-12-26T09:30",
+        "responseTime": 851
+    },
+    {
+        "eventTime": "2023-12-26T09:45",
+        "responseTime": 676
+    },
+    {
+        "eventTime": "2023-12-26T10:00",
+        "responseTime": 245
+    },
+    {
+        "eventTime": "2023-12-26T10:15",
+        "responseTime": 910
+    },
+    {
+        "eventTime": "2023-12-26T10:30",
+        "responseTime": 951
+    },
+    {
+        "eventTime": "2023-12-26T10:45",
+        "responseTime": 240
+    },
+    {
+        "eventTime": "2023-12-26T11:00",
+        "responseTime": 472
+    },
+    {
+        "eventTime": "2023-12-26T11:15",
+        "responseTime": 855
+    },
+    {
+        "eventTime": "2023-12-26T11:30",
+        "responseTime": 699
+    },
+    {
+        "eventTime": "2023-12-26T11:45",
+        "responseTime": 998
+    },
+    {
+        "eventTime": "2023-12-26T12:00",
+        "responseTime": 127
+    },
+    {
+        "eventTime": "2023-12-26T12:15",
+        "responseTime": 201
+    },
+    {
+        "eventTime": "2023-12-26T12:30",
+        "responseTime": 503
+    },
+    {
+        "eventTime": "2023-12-26T12:45",
+        "responseTime": 662
+    }
+]
